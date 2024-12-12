@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.pi {
+    border: 1px solid lightskyblue;
+    background-color: lightskyblue;
+}
+
+.boxes {
+    border: 1px solid lightskyblue;
+}
+
+.boxes {
+    display: flex;
+}
+
+.container {
+    margin: 50px;
+}
+
+.myimg {
+    width: 20%;
+    height: auto;
+    margin-left: 70%;
+    margin-top: 20%;
+    margin-right: auto;
+    margin-bottom: 20%;
+}
+
+.stoixeia-text {
+    padding: 5px;
+    margin: 5px;
+}
